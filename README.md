@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Nicolas
 
-<!--
-**NicoWoch/nicowoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I enjoy coding in C++ and Python
 
-Here are some ideas to get you started:
+🧑‍🎓 I'm Final-year high school student from Poland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Participated three-times in Stage II of [OI](https://oi.edu.pl/) (Polish Olympiad in Informatics)
+
+🎮 Recently, made some games on [itch.io](https://nicowoch.itch.io/)
+
+🌱 Currently preparing for next-year OI and expanding my knowledge about gamedev making games
+
+🧠 Intrested in **math** and I like to play some **chess** from time to time
+
+🔍 Always open to interesting ideas or collaborations.
+
+📫 Reach me on GitHub or via discord `NicoWoch#2831`
