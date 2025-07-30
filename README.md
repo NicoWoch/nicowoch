@@ -15,3 +15,11 @@
 🔍 Always open to interesting ideas or collaborations.
 
 📫 Reach me on GitHub or via discord `NicoWoch#2831`
+
+<br>
+
+[![Codewars Stats](https://www.codewars.com/users/NicoWoch/badges/micro)](https://www.codewars.com/users/NicoWoch/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/nico_woch/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/nicowoch)
